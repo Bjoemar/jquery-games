@@ -1,0 +1,263 @@
+body {
+	background-color: gray;
+}
+h1 {
+	font-size: 100px;
+	text-align: center;
+}
+
+.platform {
+	margin: auto;
+}
+
+.blue {
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+}
+.red {
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+
+.platform {
+	height: 800px;
+	width: 100%;
+}
+.firstbox {
+	height: 300px;
+	width: 800px;
+	background: black;
+	margin: auto;
+	text-align: center;
+}
+.secondbox {
+	height: 300px;
+	width: 800px;
+	background: black;
+	margin: auto;
+	text-align: center;
+}
+.thirdbox {
+	height: 300px;
+	width: 800px;
+	background: black;
+	margin: auto;
+	text-align: center;
+}
+.box {
+	height: 250px;
+	width: 250px;
+	background: gray;
+	margin: auto;
+	display: inline-block;
+
+	margin-top: 20px;
+
+}
+.mid {
+	float: left;
+	margin-left: 10px;
+
+}
+.left {
+	height: 900px;
+	background-color: skyblue;
+	float: left;
+	width: 17%;
+}
+.right {
+	height: 900px;
+	background-color: black;
+	float: left;
+	margin-left: 10px;
+	width: 17%;
+}
+.card {
+	height: 160px;
+	width: 170px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: black;
+}
+
+.card {
+	height: 160px;
+	width: 170px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: black;
+}
+#card1 {
+	background-image: url(../images/deck1/c1.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#card2 {
+	background-image: url(../images/deck1/c2.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#card3 {
+	background-image: url(../images/deck1/c3.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#card4 {
+	background-image: url(../images/deck1/c4.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#card5 {
+	background-image: url(../images/deck1/c5.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+
+.clear {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.topnum {
+	float: left;
+	width: 100%;
+	background-color: rgba(0,0,255,0.3);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+
+}
+.rightnum {
+	float: left;
+	padding-top: 50px;
+	width: 10%;
+	height: 40%;
+	background-color: rgba(0,0,255,0.3);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.leftnum {
+	float: right;
+	padding-top: 50px;
+	width: 10%;
+	height: 40%;
+	background-color: rgba(0,0,255,0.3);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.bottomnum {
+	float: right;
+
+	width: 100%;
+	
+	background-color: rgba(0,0,255,0.3);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.topnum1{
+	float: left;
+	width: 100%;
+	background-color: rgba(238, 109, 113, 0.40);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+
+}
+.rightnum1 {
+	float: left;
+	padding-top: 50px;
+	width: 10%;
+	height: 40%;
+	background-color: rgba(238, 109, 113, 0.40);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.leftnum1 {
+	float: right;
+	padding-top: 50px;
+	width: 10%;
+	height: 40%;
+	background-color: rgba(238, 109, 113, 0.40);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.bottomnum1 {
+	float: right;
+
+	width: 100%;
+	
+	background-color: rgba(238, 109, 113, 0.40);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+
+#carde1 {
+	background-image: url(../images/deck2/e1.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#carde2 {
+	background-image: url(../images/deck2/e2.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#carde3 {
+	background-image: url(../images/deck2/e3.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#carde4 {
+	background-image: url(../images/deck2/e4.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
+#carde5 {
+	background-image: url(../images/deck2/e5.jpg);
+	height: 160px;
+	width: 170px;
+	background-position: center;
+	background-size: cover;
+	border: 3px solid black;
+}
